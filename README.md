@@ -21,3 +21,8 @@ See example notes for how to use the different techniques mentioned in the book.
 ## Configuration
 
 You can change the template used in the **Unique Note Creator** plugin settings to other templates in the `Templates/` folder. 
+
+### Thanks
+
+1. **David Burns** for the **Feeling Good** book and podcast.
+2. **[Flexoki](https://www.stephango.com/flexoki)** and **Obsidian**
